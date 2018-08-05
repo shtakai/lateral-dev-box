@@ -1,5 +1,7 @@
 # Lateral Dev Box
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/lateral-dev-box.svg)](https://www.guardrails.io)
+
 ## Introduction
 
 This project is inspired in the [rails-dev-box](https://github.com/rails/rails-dev-box). It automates the setup of a development environment for working on Ruby on Rails and MEAN stack.
